@@ -1,1 +1,1 @@
-# Early-detection-de-ransomware
+# Early detection de ransomware

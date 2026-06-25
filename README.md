@@ -884,31 +884,14 @@ Este repositório não deve conter:
 Caso sejam utilizados dados reais de análise dinâmica, recomenda-se anonimizar nomes de arquivos, caminhos, usuários e identificadores sensíveis.
 
 ---
-
-## 20. Licença
-
-Recomenda-se utilizar uma licença aberta, como:
-
-```text
-MIT License
-```
-
-ou
-
-```text
-Apache License 2.0
-```
-
----
-
-## 21. Como citar
+## 20. Como citar
 
 Caso utilize este artefato em trabalhos acadêmicos, cite o repositório conforme o arquivo `CITATION.cff`.
 
 Exemplo:
 
 ```text
-Autor. Ransomware Temporal API Dataset Generator. GitHub, 2026.
+G O Souza. Ransomware Temporal API Dataset Generator. GitHub, 2026.
 ```
 
 ---
